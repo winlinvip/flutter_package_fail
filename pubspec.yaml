@@ -1,0 +1,8 @@
+name: winlin_test_lib
+version: 1.0.0
+description: Tight depends on uuid/2.0.0, to demo failure if yours is not that.
+homepage: https://github.com/winlinvip/winlin_test_lib
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dependencies:
+  uuid: 2.0.0
