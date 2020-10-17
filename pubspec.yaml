@@ -1,4 +1,4 @@
-name: winlin_test_lib
+name: flutter_package_fail
 version: 1.0.0
 description: Tight depends on uuid/2.0.0, to demo failure if yours is not that.
 homepage: https://github.com/winlinvip/winlin_test_lib

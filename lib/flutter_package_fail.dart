@@ -1,4 +1,4 @@
-library winlin_test_lib;
+library flutter_package_fail;
 
 import 'package:uuid/uuid.dart' as uuid;
 import 'package:mylib/mylib.dart' as mylib;
